@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewApp</string>
+    <string name="category">Category</string>
+    <string name="but1">Plants</string>
+    <string name="but2">Fruits</string>
+    <string name="but4">Tips</string>
+    <string name="but3">Spices</string>
+    <string name="ayush">AYUSH</string>>
+    <string name="botanical_name">Botanical Name:</string>
+    <string name="Uses">Uses:</string>
+    <string name="parts">Parts Used:</string>
+    <string name="plants">Plants</string>
+    <string name="fruits">Fruits</string>
+    <string name="spices">Spices</string>
+    <string name="remedies">Remedies</string>
+</resources>

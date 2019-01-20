@@ -1,0 +1,123 @@
+{  
+   "plant":[  
+      {  
+         "image":"basil",
+         "name":"Basil(Tulasi)",
+         "bname":"Ocimum basilicum",
+         "uses":"colic, constipation, anxiety, sleep difficulties, migraine, fever,colds,flu,arthritis, cough, bad breath.",
+         "parts":"seeds, leaves."
+      },
+      {  
+         "image":"qq",
+         "name":"Aleo vera",
+         "bname":"Barbadensis miller",
+         "uses":"Digestive help,skin conditioner, non-healing ulcers, liver diseases like jaundice. Experimental studies on Aloe suggest its positive cosmetic value and wound healing properties. Also it was observed that internal use of Aloes evokes positive immune response in experimental animals.",
+         "parts":"Leaves"
+      },
+      {  
+         "image":"mint",
+         "name":"Mint(Pudina)",
+         "bname":"Mentha",
+         "uses":"gastritis, intestinal colic, treating colds, bowel syndrome,, Skin eruptions, Blotches, Pimples, Diarrhea, Sore throats.",
+         "parts":"Leaves"
+      },
+      {  
+         "image":"stevia",
+         "name":"Stevia(Sarkarai Tulasi)",
+         "bname":"Stevia rebaudiana",
+         "uses":"With its steviol glycoside extracts having up to 300 times the sweetness of sugar,stevia has garnered attention with the rise in demand for low-carbohydrate, low-sugar food alternatives.Because stevia has a negligible effect on blood glucose, it is attractive as a natural sweetener to people on carbohydrate-controlled diets.",
+         "parts":"Leaves"
+      },
+      {
+          "image":"coriender",
+          "name":"Coriander(kotthu malli)",
+          "bname":"Coriandrum sativum",
+          "uses":"Skin disorders, Eczema, Dryness, Fungal infections, Heart attacks, Artherosclerosis, Strokes, Diarrhea, Blood pressure.",
+          "parts":"Seeds, Leaves"
+      },
+      {  
+         "image":"curry",
+         "name":"Curry leaves",
+         "bname":"Murraya koenigii",
+         "uses":"Cure Diarrhea, Gastrointestinal Protection, Cancer, Lower Cholesterol Levels, Hair Care, Eyesight, Pathogen Attack, Liver, Skin Care.",
+         "parts":"Leaves, Root, Crust, Fruits."
+      },
+      {  
+         "image":"kar",
+         "name":"Indian borage(Karpuravalli)",
+         "bname":"Plectranthus amboinicus",
+         "uses":"Respiratory Issues, Cancer, Stress, Anxiety, Skin eruptions, Kidney problems, Fever, Irritable Bowel Syndrome, Sore throats.",
+         "parts":"Leaves"
+      },
+      {  
+         "image":"nem",
+         "name":"Lemon(Elumichai)",
+         "bname":"Citrus limon",
+         "uses":"common cold, cough, cancer , kidney stone, systolic blood pressure, acid reflux, gastritis, arthritis, gouty diathesis.",
+         "parts":"Leaves, Fruits."
+      },
+      {  
+         "image":"fig",
+         "name":"Laurel Fig(Kallichchi)",
+         "bname":"Ficus microcarpa",
+         "uses":"Wounds, ulcers, bruises, flatulent colic, hepatopathy, dysentery, diabetes, hyperdipsia, burning sensation.",
+         "parts":"Leaves, Bark."
+      },
+      {  
+         "image":"bha",
+         "name":"Brahmi(Neer brahmi)",
+         "bname":"Bacopa Monnieri",
+         "uses":"Epilepsy, Asthma, Ulcers, Tumors, Gastroenteritis, Ascites, Enlarged spleen, Anemia, Inflammations, Leprosy.",
+         "parts":"Root, Stem, Leaves"
+      },
+      {  
+         "image":"chi",
+         "name":"Chikoo(Chappotta)",
+         "bname":"Manilkara zapota",
+         "uses":"Fever, Haemorrhage, Wounds, Ulcers, Diarrhoea, Indigestion, Urinary stones, Gall bladder stones, Thrush in babies.",
+         "parts":"Fruit, Stem, Root, Shoot."
+      },
+      {  
+         "image":"nai",
+         "name":"Chaff Flower(Nayurivi)",
+         "bname":"Achyranthes aspera",
+         "uses":"Body aches, Post-abortion pain, Costodynia, jaundice, Post- partal fever, Anorexia, Amenorrhoea, Dysmenorrhoea, Menoxenia, Leucorrhoea, Habitual abortion.",
+         "parts":"Seeds, Roots."
+      },
+      {  
+         "image":"neem",
+         "name":"Neem(Vembu)",
+         "bname":"Azadirachta indica",
+         "uses":"Skin diseases, Hair problems, Liver function, Detoxify the blood, Fever, Blotches, Dental treatments, Cough, Asthma, Ulcers, Piles.",
+         "parts":"Bark, Leaves Seeds."
+      },
+      {
+         "image":"hen",
+         "name":"Henna(Aivanam)",
+         "bname":"Lawsonia inermis",
+         "uses":"Bleeding, Nerve diseases, Amoebic dysentery, Wounds, Skin eruptions, Ulcers, Pimples, Diarrhea, Sore throats.",
+         "parts":"Leaves, Seeds"
+      },
+      {  
+         "image":"kuppa",
+         "name":"Indian Nettle(Kuppaimeni)",
+         "bname":"Acalypha indica",
+         "uses":" anti-ulcer,antibacterial and anti-fungal properties making it one of the best ingredients to use for skin care.g anti-inflammatory properties. When applied externally, it can reduce inflammation very effectively.",
+         "parts":"Leaves"
+      },
+      {  
+         "image":"thu",
+         "name":"Climbing Brinjal(Tuduvalai)",
+         "bname":"Solanum trilobatum",
+         "uses":" lung cancer,diabetes,diarrhea, cholera,asthma, tuberculosis,malaria, bronchitis,cold and cough as it has anti-inflammatory, anti-microbial, antioxidant, anti-tumor properties. and also act as a Mosquito-repellent.",
+         "parts":"Leaves,flowers"
+      },
+      {  
+         "image":"insulin",
+         "name":"Costus igneus(Insulin Plant)",
+         "bname":"Chamaecostus cuspidatus",
+         "uses":"Diabetes",
+         "parts":"Leaves"
+      }
+   ]
+}

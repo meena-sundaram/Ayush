@@ -1,0 +1,89 @@
+{  
+   "remedy":[
+      {  
+         "name":"Acne, Blackheads and Pimples",
+         "use1":" * Mix equal amounts of lemon juice and rose water, apply to face with a cotton ball, and allow to sit for 30 minutes before rinsing. 15-20 days of this application helps cure pimples and also helps to remove blemishes and scars.",
+         "use2":" * Apply fresh lemon juice on the affected area overnight. Wash off with warm water next morning.",
+         "use3":" * For acne that hasn't seemed to respond to anything, steep 2-3 tsp. dried basil leaves in 1 cup boiling water for 10-20 minutes, cool, and apply to affected area with a cotton ball."
+      },
+      {  
+         "name":"Anemia",
+         "use1":" * Avoid drinking tea (regular, not herbal varieties) and coffee immediately after meals, as the tannin present in these interferes in the absorption of iron from the food.",
+         "use2":" * Foods rich in iron: shellfish, fish, liver, organ meats, egg yolks, pinto, kidney, lima, navy, chick peas, black-eyed peas, lentils, split peas, green peas, spinach, kale, collards, beet greens, chard, broccoli, raisins, prunes, figs, dates, dried peaches, dried apricots, nuts, peanut butter, whole grain breads.",
+         "use3":" * Your body absorbs iron from meats easier than fruits and vegetables. To aid in the absorption of iron from fruits and vegetables, eat them with a good source of vitamin C."
+      },
+      {
+         "name":"Abdominal Pain",
+         "use1":" * Extract 1 teaspoonful juice of fresh ginger and mix it with 1/2 a teaspoonful of clarified butter. Consuming this juice helps relieve abdominal pain instantly.",
+         "use2":" * Boil about a teaspoonful of Ajwain seeds in 1 cup (about 125 ml) of water for 5 minutes. Strain it through the tea strainer and add a pinch of common salt. Taking this solution helps to get rid of the pain.",
+         "use3":" * Take fresh mint leaves and extract them to get about a teaspoonful of juice. Mix this juice in a cup of  plain water and drink instantly.It gives instant relief."
+      },
+      {
+         "name":"Burn",
+         "use1":" * A paste made of turmeric powder and water, applied locally, provides instant relief to a burn injury as recommended by Indian Ayurveda.",
+         "use2":" * Sesame oil, applied on the affected burnt skin, provides equally good relief.",
+         "use3":" "
+      },
+      {  
+         "name":"Cold & flu",
+         "use1":" * Apply a paste of crushed leaves of Betel and water on the chest of the patient for effective relief from cough.",
+         "use2":" * If its whooping coughs, garlic is one of the best remedies. Syrup made from 2 to 3 garlic cloves should be consumed twice or thrice a day.",
+         "use3":" * Another effective formulation for ayurvedic treatment of cough would be to take some fenugreek seeds and boil them in water for about 30 minutes. Use this solution for gargles. It provides suitable relief."
+      },
+      {  
+         "name":"Dark circles",
+         "use1":" * Make a paste out of 1 tsp. tomato juice, 1/2 tsp. lemon juice, a pinch of turmeric powder, and 1 tsp. of flour. Apply around eyes. Leave on for 10 minutes before rinsing.",
+         "use2":"",
+         "use3":""
+
+      },
+      {
+         "name":"Dry skin",
+         "use1":" * An oil massage is a simple yet well-known remedy to treat dry skin. For better results, you may add a few drops of glycerine to the oil just before application.",
+         "use2":" * Clarified butter or milk cream are good for cracked lips. Apply them for a couple of days just before going to bed.",
+         "use3":" * "
+      },
+      {
+         "name":"Dandruff",
+         "use1":" * Rubbing lemon juice over the scalp before taking a bath prevents dandruff.",
+         "use2":" * Take about 100gms of leaves of Margosa (Neem) tree and boil them in a litre of water for 1-2 hours. Allow it to cool and strain through a thin cloth. This decoction is an excellent hair wash and prevents dandruff as recommended by Ayurveda.",
+         "use3":" * Mix in equal parts of dried Indian gooseberry, Shikakai (pods of soap nut acacia) and Margosa leaves. Grind the mixture to a fine powder. Mix this powder in a litre of water and wash the hair with this solution to effectively get rid of dandruff."
+      },
+      {
+         "name":"Diabetics",
+         "use1":" * Grind three seedless Amla/Indian gooseberry into a fine paste.mix 2 tablespoons of this juice with water and drink every morning on an empty stomach. Its rich in vitamin C and promotes healthy functioning of your pancreas.",
+         "use2":" * Mix the extract of 10 neem leaves, 10 tulsi leaves and 10 belpatras [6]. This mixture can be taken with water on an empty stomach in order to reduce the content of sugar in the blood.",
+         "use3":" * Mix ground bay leaf (1/2 tbsp), turmeric (1/2 tbsp) and aloe vera gel (1 tbsp). This mixture should be taken twice a day before lunch and dinner. It is quite effective in controlling sugar in blood."
+      },
+      {
+         "name":"Fever",
+         "use1":" * Sponging the forehead and the body with cold water is a commonly recommended practice in high fever and in fever due to sun-stroke.",
+         "use2":" * Take about 20 fresh leaves of Holy Basil. Take a small piece of ginger and about 5 grains of black pepper. Boil them together in your tea and drink the warm liquid.",
+         "use3":" * For better results, add 1 teaspoonful of rose water to the cold water before sponging. You could even add the rose water to an ice-bag and use it for sponging."
+      },
+      {  
+         "name":"Headache",
+         "use1":" * Eat 10-12 almonds, the equivalent of two aspirins, for a migraine headache. Almonds are far less likely to upset the stomach.",
+         "use2":"",
+         "use3":""
+      },
+      {
+         "name":"Hair Fall",
+         "use1":" * Use Bhringraj oil or Olive oil Massage it to scalp before sleeping prevents hair loss./n",
+         "use2":" * Onion juice mixed with honey: It can be applied as it helps in thickening of hair./n",
+         "use3":" * Grind the small portion of banyan tree root and mix the lemon juice in it. Now, apply the mixture over your scalp to prevent hair fall."
+      },
+      {
+         "name":"Knee Pain",
+         "use1":" * The benefits of massage can be amplified if the massage is done using warm mustard oil. The oil may not offer a very pleasant odour, but a massage with this ensures relief.",
+         "use2":" * Grind in your mortar and pestle equal parts of dried ginger, black pepper and a pinch of black salt. Take a teaspoonful of this mixture with water.",
+         "use3":" "
+      },
+      {  
+         "name":"Obesity",
+         "use1":" * Mix lime juice with honey and water; drink a glass of this every morning.",
+         "use2":" * Mix 3 tsp. lime juice, 1/4 tsp. black pepper, 1 tsp. honey, and 1 cup water; Drink 1 glass a day for 3 months.",
+         "use3":" * Effective at getting rid of fat, drink up to 3 cups of green tea daily."
+      }
+   ]
+}

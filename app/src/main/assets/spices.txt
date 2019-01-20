@@ -1,0 +1,60 @@
+{
+	"spice":[
+			{
+				"name":"Ginger",
+				"image":"ginger",
+				"uses":" Ginger helps to relieve common colds. It is also most commonly known for its quick relieving effects on heartburn, nausea, upset stomach, diarrohea, motion and morning sickness.\n * It has been found to be a beneficial anti-inflammatory, due to its high levels of gingerol, making it a great natural remedy for headaches, minor body aches and even some cases of arthritis."
+			},
+			{
+				"name":"Turmeric",
+				"image":"turmeric",
+				"uses":" Turmeric helps prevent bites, stings, open wounds, boils and breast disorders.Turmeric has many useful therapeutic qualities, including, anti-oxidant, anti-tumoral, anti-microbial, anti-inflammatory, anti-hepatotoxic, anti-hyperlipidemic, and insect repellent effects.\n * It is very useful in cancer as it improves the anti-cancer, and anti-inflammatory properties of nitric oxide and increases the anti-cancer properties of other phytonutrients.It also helps in minimising liver damages caused by taking excessive alcohol consumption or regular use of pain-killers. A warm glass of milk mixed with turmeric helps in cold and cough. It is also an antiseptic."
+			},
+			{
+				"name":"Cloves",
+				"image":"clove",
+				"uses":" * The antiseptic and antibiotic properties of clove oil are used in medicines especially in dentistry, oral and pharyngeal treatments.\n * It has wider applications in preparations of toothpaste and mouthwashes, soaps and perfumes.\n * It is also reported to help diabetics in sugar assimilations."
+			},
+			{
+				"name":"Asafoetida",
+				"image":"as",
+				"uses":" * This flavoring agent has wonderful health benefits as it helps in digestion. It is useful in the treatment of respiratory disorders like cough, asthma and bronchitis.\n * It has been proved useful in the treatment of health problems concerning women such as unusually painful and excessive menstruation.\n * It is also used in medicines because of its antibiotic properties."
+			},
+			{
+				"name":"Cumin",
+				"image":"cumin",
+				"uses":" * Cumin is known to relieve from digestive problems, reduce chances of anaemia and alleviate common cold.\n * Antiseptic properties of cumin can help fight flu by boosting the immune system.\n * Cumin helps control stomach pain, indigestion, diarrohea, nausea and morning sickness.\n * Cumin also contains a good amount of iron."
+			},
+			{
+				"name":"Cinnamon",
+				"image":"cinda",
+				"uses":" * It is helpful for diabetics as it helps in digestion of sugar.\n * It has astringent, stimulant and carminative properties and can check nausea and vomiting.\n * Cinnamon is also an anti-inflammatory, improves cardiovascular health, increases metabolic rate, helps control and regulate blood sugar, and has anti-microbial effects."
+
+			},
+			{
+				"name":"Black cardamom",
+				"image":"car",
+				"uses":" * Black cardamom eases out digestive problems and reduces flatulence, it is known to provide relief from throat problems, chest congestion, and gum infection. Due to its anti-inflammatory properties and the fact that it can alleviate muscle spasms, black cardamom is a saving grace for asthmatics. It is a great ingredient for respiratory problems."
+			},
+			{
+				"name":"Saffron",
+				"image":"saf",
+				"uses":" * Saffron has the ability to treat depression, prevents loss of vision, and improves memory.\n * The stigma of the flower can provide relief from digestive issues with the help of its anti-inflammatory, antioxidant and anti-depressant properties.\n * In medicine, saffron is used in fevers, melancholia, and enlargement of liver and spleen.\n * In Ayurvedic medicine it is used to heal arthritis, impotence and infertility."
+			},
+			{
+				"name":"Nutmeg",
+				"image":"nut",
+				"uses":" * Nutmeg has anti-bacterial properties. It helps in fighting tooth decay, Alzheimer's and improves memory.\n * It can also release the tension in muscles."
+			},
+			{
+				"name":"Black Pepper",
+				"image":"black",
+				"uses":" * Black pepper has the ability to increase the production of hydrochloric acid that the stomach needs to help in digestion.\n * It is also anti - bacterial in nature, reduces blood pressure and contains iron that is beneficial for the body."
+			},
+			{
+				"name":"Garlic",
+				"image":"garl",
+				"uses":" * Garlic with its antiviral and antibacterial properties helps in boosting immunity and keeps one looking fresh and healthy.\n * Garlic's ability to fight infections and bacteria makes it an effective cure for warts and skin problems.\n * Garlic's antibacterial and anesthetising properties can help cure toothaches."
+			}
+		  ]
+}

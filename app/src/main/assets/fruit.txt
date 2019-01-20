@@ -1,0 +1,54 @@
+{  
+   "fruits":[  
+      {  
+         "name":"Pineapple",
+         "image":"pin",
+         "uses":" * Powerful anti-inflammatory: Tangy tropical fruit is jam-packed with bromelain.\n * an anti-inflammatory enzyme that has been shown to reduce the risk of heart attacks and strokes, as well as increase fertility."
+      },
+      {  
+         "name":"Mango",
+         "image":"mango",
+         "uses":" * Immunity boosters: Mangoes are becoming increasingly popular among nutritionists due to their exceptionally high levels of beta carotene.\n * which the body converts into vitamin A to promote bone growth and a healthy immune system.\n *  Even more,these exotic treats are packed with more than 50 percent of your daily vitamin C that's more than oranges provide."
+      },
+      {  
+         "name":"Kiwi",
+         "image":"kiwi",
+         "uses":" * Loaded with vitamins: Beneath its fuzzy skin is a sweet fruit loaded with vitamins C and E, both strong antioxidants that protect against cancer and promote eye health.\n * Kiwis are also low in calories and high in fiber, making them ideal for weight loss.\n * Because they can last up to four weeks when stored in the refrigerator, they are a great snack to keep all year round."
+      },
+      {  
+         "name":"Grapes",
+         "image":"grape",
+         "uses":" * Heart healthy: As one of the worlds oldest and most abundant healthiest fruits, grapes have been proven to ward off heart disease and high cholesterol, high levels of the antioxidants quercetin and resveratrol.\n * Each little bulb is also a great source of potassium and iron, which prevent muscle cramps and anemia.\n * Stick with the purple or red kind, as they contain the highest concentration of healthy compounds."
+      },
+      {  
+         "name":"Peaches",
+         "image":"peach",
+         "uses":" * Packed with potassium: Everyone knows that bananas boast high amounts of potassium, but two small peaches or nectarines have more of the essential mineral than one medium banana, boosting nerve and muscle health and making them one of the healthiest fruits.\n * The skins, in particular, are rich in antioxidants and insoluble fiber.\n * peaches are a healthy way to add sweetness to any diet."
+      },
+      {  
+         "name":"Apples",
+         "image":"apple",
+         "uses":" * Brain- and heart-healthy: One medium apple is low on calories (only 80!) but heavy on quertecin, a powerful antioxidant that protects brain cell degeneration, which can lead to Alzheimer's disease.\n * Apples can also lower cholesterol and prevent colon cancer, as well as promote healthy teeth and weight loss.\n * Don't forget to eat the skin, too it's especially rich in disease-fighting compounds like flavonoids, which reduce the risk of heart disease."
+      },
+      {  
+         "name":"Pomegranates",
+         "image":"pomo",
+         "uses":" * More antioxidants : Pomegranate juice has two to three times the antioxidant capacity of red wine or green tea, and is also a great source of potassium, which sustains energy and controls high blood pressure.\n * Research shows that drinking a cup of pomegranate juice daily could improve cardiovascular health, lower cholesterol, and help with erectile dysfunction.\n * Top salads with pomegranate seeds for a vitamin-packed meal."
+      },
+      {  
+         "name":"Orange",
+         "image":"orange",
+         "uses":" * Vitamin C powerhouse: Although oranges are a great source of vitamin C, grapefruits pack a bigger punch.\n * Just half of a grapefruit contains nearly 50 percent of your daily vitamin C, as well as high levels of fiber, potassium, and vitamin A.\n * Studies have suggested that grapefruit can alleviate the symptoms of arthritis and repair damaged or oily skin and hair.\n * It's little wonder that this delicious fruit is no longer just a breakfast staple."
+      },
+      {  
+         "name":"Banana",
+         "image":"banana",
+         "uses":" * Healthy on-the-go snack: A banana is the perfect on-the-go snack, already wrapped and full of potassium and fiber to promote long-lasting energy and keep you alert all day long. And since it contains no fat or salt, bananas are a much healthier snack.\n * Here's a trick: Store them in the refrigerator after they're ripe. Although the peel may turn brown, the fruit underneath will stay delicious for three to five extra days."
+      },
+      {  
+         "name":"Blueberries",
+         "image":"blue",
+         "uses":" * Anti-aging powerhouses: Long considered one of the beloved superfoods, these sweet treats are tiny but mighty, loaded with antioxidants and vitamin C to help fight disease, as well as anthocyanin, a pigment shown to boost brainpower.\n * One study found that people who ate the greatest amount of this fruit were less likely to develop age-related macular degeneration, the leading cause of blindness in older adults."
+      }
+   ]
+}
